@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  first note
+title: first note
 date: 2024-06-26 20:26:00 +0900
-categories: first blog two
+categories: first
 ---
 
 # 첫 글입니다
