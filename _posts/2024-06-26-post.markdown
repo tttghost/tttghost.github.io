@@ -13,7 +13,7 @@ categories: first
 
 >마크다운 언어 공부
 
-'''c#
+```c#
 ggg
-'''
+```
 
