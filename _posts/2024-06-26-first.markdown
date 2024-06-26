@@ -10,8 +10,3 @@ categories: first blog two
 ## 어색하지만
 
 ### 마크다운을 잘 써서 적응해보자!
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
-
